@@ -1,2 +1,3 @@
-# Titanic---Machine-Learning-from-Disaster
-use machine learning to create a model that predicts which passengers survived the Titanic shipwreck. Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck
+# Titanic-Machine-Learning-from-Disaster
+This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.
+Using machine learning to create a model that predicts which passengers survived the Titanic shipwreck
